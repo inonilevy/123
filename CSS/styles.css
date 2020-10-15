@@ -1,0 +1,33 @@
+
+  body {
+    background-color:#d9ecf2;
+    text-align: center;
+    font-family:verdana ,sans-serif;
+  }
+
+  hr {
+  ;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%
+  }
+
+  .top-photo {height: 300px}
+  h1{color: black; 
+  text-shadow: 4px 4px;
+font-size: 100px}
+  h3 {color: black}
+
+
+
+.first {width: 100%}
+
+.start {padding: 30px;
+margin-top: 0; margin-bottom: 0}
+
+.underline {text-decoration: underline;}
+
+.img-Skills { height: 50px;
+width: 50px}
